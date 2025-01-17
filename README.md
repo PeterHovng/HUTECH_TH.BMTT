@@ -44,7 +44,8 @@ Dự án này là một tập hợp các bài thực hành về bảo mật thô
 3. Thêm thư viện bcprov-jdk18on-1.80 vào dự án.
 4. Chọn bài thực hành cần chạy.
 5. Biên dịch và chạy chương trình trực tiếp trong NetBeans.
-*Lưu ý: Dự án có chứa các tệp như tài liệu thực hành "documents" dạng PDF, thư viện cần thêm vào "library" bcprov-jdk18on-1.80.
+
+   *Lưu ý: Dự án có chứa các tệp như tài liệu thực hành "documents" dạng PDF, thư viện cần thêm vào "library" bcprov-jdk18on-1.80.
 ## Thông tin tác giả
 - **Họ và tên:** Lê Hoàng Gia Đại  
 - **Mã số sinh viên:** 2280618445  
